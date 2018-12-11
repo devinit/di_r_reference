@@ -132,3 +132,9 @@ install.packages("ggplot2")
 
 # And you can load new packages with `library` or `require`
 library(ggplot2)
+
+# R also has it's own output format, known as RData. It's really compressed, but can only be read by R
+save(on.fire,file="test.RData")
+load("test.RData")
+
+# You cannot assign it to a variable, like reading a CSV. Instead the dataframe retains it's variable name
