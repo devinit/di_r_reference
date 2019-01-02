@@ -7,8 +7,12 @@ if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
 
 # For testing purposes, the country data from the GNR 2018 country profiles has been placed in the data folder.
-# You may need to change your wd depending on where this file lives on your computer.
-wd = "~/git/di_r_reference"
+# I'm also going to set up a standard structure for git repos. C for Windows, ~ for mac and linux
+if(.Platform$OS.type == "unix"){
+  wd = "~/git/di_r_reference"
+}else{
+  wd = "C:/git/di_r_reference"
+}
 setwd(wd)
 dat = read.csv("data/gnr_2018_data.csv",na.strings="",as.is=T)
 
