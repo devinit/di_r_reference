@@ -1,6 +1,13 @@
-# In this module we'll discuss various methods of repetition. For testing purposes, the country data
-# from the GNR 2018 country profiles has been placed in the data folder. We can load it in.
-# you may need to change your wd depending on where this file lives on your computer.
+# In this module we'll discuss various methods of repetition.
+# From here on out, rather than adding in `library` or `require` for each package,
+# I'm going to use this stock piece of code that will check and install required libraries.
+list.of.packages <- c("data.table","ggplot2")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+lapply(list.of.packages, require, character.only=T)
+
+# For testing purposes, the country data from the GNR 2018 country profiles has been placed in the data folder.
+# You may need to change your wd depending on where this file lives on your computer.
 wd = "~/git/di_r_reference"
 setwd(wd)
 dat = read.csv("data/gnr_2018_data.csv",na.strings="",as.is=T)
@@ -61,13 +68,11 @@ for(ind in inds){
 }
 
 # My prefered way to operate on subgroups of data is with the data.table package
-library(data.table)
 dat.tab = data.table(dat)
 dat.means = dat.tab[,.(value=mean(as.numeric(value))),by=.(year,indicator)]
 
 # We'll touch more on ggplot2 in later modules, but I quickly want to show how you can create charts in a loop
 dat.means = dat.means[complete.cases(dat.means),]
-library(ggplot2)
 for(ind in unique(dat.means$indicator)){
   sub.dat = subset(dat.means,indicator==ind)
   if(nrow(sub.dat)>1){
