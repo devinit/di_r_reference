@@ -3,3 +3,4 @@ output/*.png
 output/*.RData
 output/*.zip
 output/*/
+.Rhistory

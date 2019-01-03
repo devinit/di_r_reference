@@ -46,4 +46,38 @@ for(txt in txts){
 
 crs = do.call(rbind,data.list)
 message("Total rows: ",nrow(crs))
+# Save it all as a compressed RData file
 save(crs,file="output/crs.RData")
+
+# Once it's saved, we can programmatically clear the environment
+rm(list=ls())
+
+# This command clears your memory, to ensure we're not holding onto any unnecessary data
+# It stands for "Garbage collection"
+gc()
+
+# To load the file we saved 
+load("output/crs.RData")
+
+# I highly recommend you don't `View` this file. It will get really slow
+# Rather, use `names` and other tools to inspect it
+names(crs)
+summary(crs$Year)
+year.freq = data.frame(table(crs$Year))
+
+# Any CRS project that has the word "health" in the long description
+health = crs[grepl("health",crs$LongDescription,ignore.case=T),]
+nrow(health)
+
+# Warning messages mention invalid strings, let's look at them (probably Spanish?)
+crs$LongDescription[c(211216,211217,212766,212985,213066)]
+
+# Can be avoided by reading string as Bytes
+byte_health = crs[grepl("health",crs$LongDescription,ignore.case=T,useBytes=T),]
+nrow(byte_health)
+
+# Calculate the set difference, and see a sample
+diff = setdiff(byte_health$LongDescription, health$LongDescription)
+diff[1]
+
+# As you can see, 4,435 rows excluded. So it's important to consider special characters
