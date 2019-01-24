@@ -9,4 +9,4 @@
 4. Charting
 5. Geospatial data
 6. Gathering data from PDFs and other unusual sources
-7. Advanced topics (XML, DTA, SAV, APIs)
+7. How to work with IATI XML
