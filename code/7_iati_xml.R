@@ -57,17 +57,25 @@ xmlGetAttrDefault = function(node,attribute_name,default_value){
 
 # loop through the trans_elems to extract data
 for(trans_elem in trans_elems){
+  type_elems = getNodeSet(trans_elem,"transaction-type")
+  trans_type = sapply(type_elems,xmlGetAttr,"code")
   value_elems = getNodeSet(trans_elem,"value")
   values = sapply(value_elems,xmlValue)
   currencies = sapply(value_elems,xmlGetAttrDefault,"currency",default_currency)
   dates = sapply(value_elems,xmlGetAttrDefault,"value-date","")
-  trans.df = data.frame(value=values,currency=currencies,date=dates)
+  trans.df = data.frame(value=values,currency=currencies,date=dates,trans_type=type)
   trans_list[[trans_list_index]] = trans.df
   trans_list_index = trans_list_index + 1
 }
 
 all_transactions = rbindlist(trans_list)
 View(all_transactions)
+
+# In this case, all transaction types are "2" meaning "commitment"
+# according to the codelist here http://reference.iatistandard.org/201/codelists/TransactionType/
+# But if you wanted to just see commitments, you could at this point subset the dataframe
+# like so:
+all_transactions = subset(all_transactions,trans_type=="2")
 
 # Turn the value into a numeric column
 all_transactions$value = as.numeric(all_transactions$value)
