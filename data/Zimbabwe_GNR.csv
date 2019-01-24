@@ -1,0 +1,994 @@
+iso3,country,disagg.value,year,value,indicator,disaggregation,component,unit,rec,recip,region,subregion
+ZWE,Zimbabwe,Female,1999,0.175114434250117,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2000,0.180184799902845,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2001,0.185120699409916,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2002,0.189941394167876,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2003,0.194682049365592,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2004,0.199365011776065,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2005,0.204008363655088,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2006,0.208529327298735,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2007,0.212970550055345,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2008,0.217351276683995,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2009,0.221674652834377,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2010,0.225984016964837,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2011,0.230317774647623,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2012,0.23467483191038,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2013,0.239070605356818,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2014,0.243516880423954,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2015,0.248017955561455,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2016,0.252624999689614,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,1999,0.424497840497201,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2000,0.431920470833502,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2001,0.43906888328688,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2002,0.445973099661553,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2003,0.452678383519795,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2004,0.4592200500412,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2005,0.465618911525377,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2006,0.471778126694419,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2007,0.477734549112021,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2008,0.483538954831472,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2009,0.489208317342388,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2010,0.494786892723082,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2011,0.500340178485893,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2012,0.50584570128283,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2013,0.511313130376765,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2014,0.516776885995354,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2015,0.522238297721248,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2016,0.527755062589051,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,1999,0.161228732145317,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2000,0.165379513779587,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2001,0.169420532261331,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2002,0.173355400373397,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2003,0.177207201119428,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2004,0.180992996164489,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2005,0.184720125602171,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2006,0.188299853147637,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2007,0.191750022164924,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2008,0.195101361304704,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2009,0.198376768585251,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2010,0.20159232221711,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2011,0.204817499759691,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2012,0.20806300519613,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2013,0.211346713142189,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2014,0.214709917627534,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2015,0.218138642103112,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2016,0.221719964010683,adult_overweight,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,0.00193081632896193,Trans fat,location,M,%,0.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,0.365850994980057,Nuts and seeds,location,M,g,20.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,20.1654724078831,Fruit,location,M,g,250,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,27.5849082237456,Vegetables,location,M,g,360,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,0.536348121170124,Processed meat,location,M,g,2,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,37.9323622995262,Legumes,location,M,g,60,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,0.161921006185401,Calcium,location,M,g,1.25,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,0.0221261037434384,Omega 3,location,M,g,0.25,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,0.0674846565874928,Saturated fat,location,M,%,7,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,3.19052865502972,Salt,location,M,g,2,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,23.8306831592632,Milk,location,M,g,435,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,92.8860702126975,Sugar-sweetened beverages,location,M,g,2.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,9.31029521713995,Red meat,location,M,g,22.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,0.0929155847956886,Polyunsaturated fat,location,M,%,11,,Africa,Eastern Africa
+ZWE,Zimbabwe,National,2016,13.9902007807463,Whole grain,location,M,g,125,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,0.853326216942275,Processed meat,location,M,g,2,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,10.1745379180483,Red meat,location,M,g,22.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,0.0624798986452582,Saturated fat,location,M,%,7,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,3.10182598578232,Salt,location,M,g,2,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,88.371341746559,Sugar-sweetened beverages,location,M,g,2.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,0.00390646211309018,Trans fat,location,M,%,0.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,0.310077648838417,Calcium,location,M,g,1.25,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,89.4168626233059,Fruit,location,M,g,250,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,64.6750036765115,Legumes,location,M,g,60,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,28.0062822866722,Milk,location,M,g,435,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,2.35561322594058,Nuts and seeds,location,M,g,20.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,0.0326964925315567,Polyunsaturated fat,location,M,%,11,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,0.027303468946715,Omega 3,location,M,g,0.25,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,129.819028508179,Vegetables,location,M,g,360,,Africa,Eastern Africa
+ZWE,Zimbabwe,Regional,2016,31.0991174088972,Whole grain,location,M,g,125,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,3.26213872899093,Processed meat,location,M,g,2,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,26.6287633574427,Red meat,location,M,g,22.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,0.0738021075332404,Saturated fat,location,M,%,7,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,4.65841991618336,Salt,location,M,g,2,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,94.7014156993954,Sugar-sweetened beverages,location,M,g,2.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,0.00498857870204281,Trans fat,location,M,%,0.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,0.456531063588397,Calcium,location,M,g,1.25,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,104.199267981657,Fruit,location,M,g,250,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,44.6316590969101,Legumes,location,M,g,60,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,59.7316183709202,Milk,location,M,g,435,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,2.65949293226421,Nuts and seeds,location,M,g,20.5,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,0.0495741374119373,Polyunsaturated fat,location,M,%,11,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,0.10006628996504,Omega 3,location,M,g,0.25,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,196.167528922841,Vegetables,location,M,g,360,,Africa,Eastern Africa
+ZWE,Zimbabwe,Global,2016,56.0974453240281,Whole grain,location,M,g,125,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,1999,0.050591437,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2000,0.051958357,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2001,0.053280526,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2002,0.054508059,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2003,0.055542654,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2004,0.056494003,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2005,0.057372884,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2006,0.058183846,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2007,0.058957591,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2008,0.059533479,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2009,0.060150992,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2010,0.060892992,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2011,0.061805412,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2012,0.062824624,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2013,0.063922933,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2014,0.065137745,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,1999,0.066218943,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2000,0.067162119,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2001,0.068047921,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2002,0.068797546,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2003,0.069339314,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2004,0.069807298,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2005,0.070224007,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2006,0.07061684,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2007,0.071029013,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2008,0.071332201,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2009,0.071719708,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2010,0.072248618,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2011,0.072955984,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2012,0.073751819,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2013,0.074615824,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2014,0.075606705,adult_diabetes,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,1999,0.288042589,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2000,0.287101421,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2001,0.286223085,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2002,0.28528791,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2003,0.28429828,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2004,0.283242554,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2005,0.282082685,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2006,0.280838053,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2007,0.279532087,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2008,0.278131896,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2009,0.27666548,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2010,0.275204695,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2011,0.273850535,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2012,0.272536544,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2013,0.271308382,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2014,0.270137769,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2015,0.269040838,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,1999,0.300764418,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2000,0.300102822,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2001,0.299379255,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2002,0.29861452,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2003,0.297832388,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2004,0.297034405,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2005,0.296269646,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2006,0.295541792,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2007,0.294843197,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2008,0.294178033,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2009,0.293597009,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2010,0.293080818,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2011,0.29264521,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2012,0.2922995,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2013,0.29201417,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2014,0.291786652,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Female,2015,0.291655914,adult_blood_pressure,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,1999,0.0225695285918468,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2000,0.0238673195884551,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2001,0.0251721024509925,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2002,0.0264842073311694,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2003,0.0278096098019163,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2004,0.0291541135370764,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2005,0.0305259140784144,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2006,0.0318936177256562,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2007,0.0332607598533462,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2008,0.0346363425610838,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2009,0.036023017221778,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2010,0.0374369379444824,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2011,0.0388921693831034,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2012,0.0403986238596824,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2013,0.041964866333314,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2014,0.0436051708708387,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2015,0.0453299177028089,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Male,2016,0.0471705432113577,adult_obesity,gender,H,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2018,2541.58,u5_pop,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2018,479.673,65_years,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2017,16529.904,population,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,19.9,diarrhea_zinc,all,P,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2015,67.4,vit_a,gender,P,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2015,68.3,vit_a,gender,P,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2015,66.4,vit_a,gender,P,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,83.3,iron_and_folic,all,P,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,On course,ebf_track,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Some progress,wra_anaemia_track,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,1999,55.15,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,56.87,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2001,64.96,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2002,64.5,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2003,72.42,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2004,76.01,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2005,64.72,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2006,80.76,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2007,78.01,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2008,68.99,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2009,77.11,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,89.17,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2011,91.64,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,94.3,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2013,85.91,fruit_veg_availability,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2017,0.534,gender_inequality_score,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2017,126,gender_inequality_rank,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,1999,0.471532340777554,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2000,0.463855351760618,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2001,0.45587314961647,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2002,0.447639549613006,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2003,0.439127738345727,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2004,0.430372934476092,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2005,0.421439491630553,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2006,0.41243769771731,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2007,0.40337183926169,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2008,0.394312345581099,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2009,0.385306754698698,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2010,0.376348703494228,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2011,0.367473867616374,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2012,0.358712920463837,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2013,0.35009237569918,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2014,0.341596698468594,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2015,0.333229989075825,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2016,0.324999685415736,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,1999,0.260992294582474,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2000,0.254232626215278,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2001,0.247376852632944,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2002,0.24044095703224,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2003,0.23344903301753,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2004,0.22643647738102,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2005,0.219415142037726,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2006,0.212433980628732,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2007,0.20555076526424,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2008,0.198778587455363,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2009,0.192114570633622,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2010,0.185572564194109,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2011,0.179183753764904,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2012,0.172943085590658,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2013,0.166849601815937,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2014,0.160922979213184,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2015,0.155168959193649,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2016,0.149564627146368,adolescent_underweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,1999,0.0186245184318541,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2000,0.0202672833387615,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2001,0.0220207501990302,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2002,0.0238939907355535,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2003,0.025888219441859,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2004,0.0280198510148083,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2005,0.0302896924904315,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2006,0.0326733563477445,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2007,0.0351812221550661,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2008,0.0378138989789047,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2009,0.0405823433718378,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2010,0.0434957596427471,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2011,0.0465850701553992,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2012,0.049856615132906,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2013,0.0533477692635059,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2014,0.057084080175467,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2015,0.0610804446492416,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2016,0.0654122243457571,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,1999,0.0882786395162497,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2000,0.0942519738102496,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2001,0.100487835409799,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2002,0.106999407357347,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2003,0.113801627605652,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2004,0.12089011784783,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2005,0.128243735449808,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2006,0.135806554746584,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2007,0.143533209495315,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2008,0.151440656439254,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2009,0.159545537551487,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2010,0.167870796442177,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2011,0.176436959287928,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2012,0.18523326219277,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2013,0.194297189773548,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2014,0.203622696473819,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2015,0.213234777078708,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2016,0.223150824369162,adolescent_overweight,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,1999,0.00195330741451249,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2000,0.00224440484221412,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2001,0.00256991989181791,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2002,0.00293354817285297,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2003,0.0033398719697611,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2004,0.00379157317680763,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2005,0.00429211435194595,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2006,0.00483755502192732,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2007,0.00543161897686719,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2008,0.00607527409573395,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2009,0.00677858730642189,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2010,0.00754407548817551,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2011,0.0083836374798504,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2012,0.00930911822958978,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2013,0.0103376619456047,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2014,0.0114824799463166,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2015,0.01275693192858,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2016,0.0141939308119358,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,1999,0.0123191050488665,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2000,0.0139783657273527,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2001,0.0157919867092494,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2002,0.0177732881544302,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2003,0.0199370882009996,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2004,0.022288810126161,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2005,0.0248252418094317,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2006,0.0275241065132872,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2007,0.0303909100146198,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2008,0.0334216375144884,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2009,0.0366323928508282,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2010,0.040037314873147,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2011,0.0436518066736517,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2012,0.0474935636607294,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2013,0.0515720217508667,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2014,0.0559026782478174,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2015,0.0605026179374856,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2016,0.0653924162359071,adolescent_obesity,gender,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,1999,32.9,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2000,33.1,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2001,33.4,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2002,33.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2003,34,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2004,34.1,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2005,34.1,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2006,33.9,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2007,33.4,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2008,32.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2009,32,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2010,31.3,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2011,30.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2012,30.1,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2013,29.6,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2014,29.2,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2015,28.9,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2016,28.8,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,All women,2017,,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2016,3.1885676,adult_sodium,all,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,1999,4.930086,190_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2005,21.52034,190_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,26.88493,190_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,16.03911,190_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,1999,23.10577,320_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2005,47.3559,320_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,53.75935,320_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,39.91512,320_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,0,agriculture_expenditure,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,32,education_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,9,health_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,8,social_protection_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,,agriculture_expenditure,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,,education_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,,health_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,,social_protection_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,,agriculture_expenditure,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,,education_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,,health_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,,social_protection_spending,,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2017,50.3,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2016,53.3,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,57,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2014,61.1,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2013,66.8,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,73.8,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2011,81.2,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,87.5,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2009,92.7,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2008,96.9,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2007,99.4,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2006,100.3,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2005,99.6,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2004,99.4,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2003,99.4,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2002,100.1,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2001,100.8,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,101.8,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,1999,102.6,u5mr,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2017,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2016,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2014,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2013,44.0763282775879,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,43.1945114135742,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2011,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2009,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2008,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2007,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2006,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2005,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2004,,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2003,34.6986312866211,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2002,37.8851089477539,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2001,39.8945388793945,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,39.0183410644531,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,1999,39.0733489990234,female_secondary_enroll_net,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,1999,32.5,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2000,32.8,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2001,33.2,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2002,33.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2003,34.3,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2004,34.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2005,35,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2006,35.2,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2007,35.2,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2008,35.1,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2009,35,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2010,34.8,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2011,34.6,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2012,34.4,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2013,34.2,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2014,34,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2015,34,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2016,34,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Pregnant women,2017,,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,1999,33,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2000,33.2,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2001,33.4,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2002,33.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2003,33.9,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2004,34.1,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2005,34,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2006,33.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2007,33.2,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2008,32.5,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2009,31.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2010,31,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2011,30.3,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2012,29.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2013,29.2,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2014,28.7,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2015,28.5,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2016,28.4,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Non-pregnant women,2017,,adult_anemia,pregnancy,I,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Wasting alone,2015,2.6157054999999998,coexistence,all,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Wasting and stunting,2015,0.67591595999999998,coexistence,all,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Stunting alone,2015,24.402609000000002,coexistence,all,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Stunting and overweight,2015,1.9949754,coexistence,all,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Overweight alone,2015,3.6490909999999999,coexistence,all,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Free from,2015,66.661704999999998,coexistence,all,G,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,1999,10.523438000000001,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2005,8.8333387000000005,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2009,3.4684526999999998,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2010,5.7846937,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2014,3.5647001,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2015,5.6440663000000004,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,1999,10.842893,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2005,9.3635196999999994,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2009,4.2696823999999998,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2010,6.6534939,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2014,3.6402524000000001,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2015,6.1887635999999997,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,1999,10.194895000000001,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2005,8.3054371000000007,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2009,2.6619761,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2010,4.9282522000000002,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2014,3.4900028999999999,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2015,5.1094965999999999,overweight_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,1999,10.332902000000001,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2005,11.570733000000001,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2009,4.7905325999999997,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,5.6254100999999999,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,4.0390787000000001,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,7.5729461000000002,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,1999,10.602026,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2005,7.9419456000000004,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2009,2.9507306,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,5.8366156,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,3.3932414,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,4.9295869000000003,overweight_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,1999,10.034679000000001,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2005,6.8925910000000004,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2009,3.0511762999999998,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,4.6810260000000001,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,3.6527112000000002,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,5.0947518000000001,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,1999,9.3245410999999994,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2005,7.2892346000000003,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2009,2.8208400999999999,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,4.5049744,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,2.7100746999999998,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,4.8370733000000001,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,1999,11.564607000000001,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2005,9.2704754000000005,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2009,2.8627646000000002,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,6.1876984000000004,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,3.3879394999999999,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,4.8977751999999999,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,1999,11.264759,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2005,9.3738183999999993,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2009,3.0154822000000001,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,7.1298880999999996,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,3.5417955000000001,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,6.6327119000000003,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,1999,10.54452,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2005,13.413855999999999,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2009,6.2041154000000001,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,7.2529154,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,4.7834443999999996,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,7.2314261999999996,overweight_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,1999,33.821972,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2005,35.304035,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2009,35.072777,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2010,32.205139,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2014,27.610687,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2015,27.0735,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,1999,35.707863,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2005,38.346638,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2009,37.759533,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2010,35.983192,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2014,31.143587,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2015,29.986361,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,1999,31.885353,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2005,32.262974,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2009,32.365192,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2010,28.505779,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2014,24.115808,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2015,24.20752,stunting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,1999,27.95826,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2005,29.358435,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2009,29.82415,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,27.848932,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,19.957396,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,22.84457,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,1999,36.23317,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2005,37.242668,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2009,37.128262,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,33.651123,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,30.376476,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,28.658337,stunting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,1999,40.338722,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2005,37.747509,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2009,39.31308,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,37.071301,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,33.394405,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,33.097187,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,1999,32.526054,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2005,39.432518,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2009,37.69759,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,32.123039,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,31.295109,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,28.938759,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,1999,36.785149,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2005,35.260574,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2009,35.367428,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,35.223114,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,28.334314,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,25.503933,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,1999,31.341223,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2005,33.364742,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2009,35.001572,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,28.975943,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,27.019098,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,27.307394,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,1999,25.803656,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2005,26.99024,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2009,25.005287,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,24.002863,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,14.95617,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,16.71427,stunting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,1999,8.309536,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2005,7.2595253,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2009,3.7562442,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2010,3.1544697,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2014,3.3637509,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Both,2015,3.2916214,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,1999,8.7866354,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2005,7.5520062,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2009,4.2802629,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2010,3.7212446,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2014,3.73136,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Boys,2015,3.3336737,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,1999,7.8188629,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2005,6.9683032,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2009,3.2287941,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2010,2.5957568,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2014,3.0003023,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Girls,2015,3.2503512,wasting_percent,gender,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,1999,4.6882577,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2005,5.5180969,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2009,2.96507,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,2.2955856,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,2.7059143,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,2.4801857,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,1999,9.8031435,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2005,7.8265963,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2009,4.0660653,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,3.4344394,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,3.6015179,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,3.5921865,wasting_percent,location,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,1999,9.3863335,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2005,8.0047207,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2009,5.1511645,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,3.2344713,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,4.6043067,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,4.1166239,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,1999,10.765037,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2005,7.9163628,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2009,3.9307897,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,3.677002,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,3.3128731,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,4.0421019,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,1999,9.4046535,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2005,7.4612894,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2009,3.5176184,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,2.8698845,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,2.6346202,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,3.0400724,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,1999,6.2997298,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2005,7.3773069,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2009,2.7894077,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,3.9035718,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,3.7425189,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,2.9752634,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,1999,4.891304,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2005,4.4195442,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2009,2.9110327,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,1.5084051,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,2.0624578,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,1.6885138,wasting_percent,income,C,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,1999,2699.85751001506,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,2583.49099037104,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2001,2590.18453021442,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2002,2334.4488198151,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2003,1917.25174622994,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2004,1785.60896460404,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2005,1662.48568496791,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2006,1582.40911717391,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2007,1501.07838447057,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2008,1215.02041586687,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2009,1336.21264373536,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,1474.87712795527,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2011,1667.13794278369,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,1871.36634027199,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2013,1929.7650013084,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2014,1925.138698418,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,1912.28026054006,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2016,1879.6281185511,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2017,1899.77497716634,GDP_capita_PPP,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2011,43.2,gini,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2011,119,gini_rank,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2017,67.763,rural_percent,all,R,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2008,1.776238,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2009,10.777314,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,18.119814,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2011,1.343501,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,2.012516,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2013,1.413301,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2014,0.901298,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,0.559033,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2016,12.135365,ODA_specific,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2008,0.00306202559734162,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2009,0.0149261800922662,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2010,0.0264378922371317,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2011,0.00205349421352357,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,0.00218444932747511,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2013,0.00183937981700752,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2014,0.00131329546869554,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,0.000697083337442536,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,,2016,0.0161127781304668,ODA_received,all,P,,,TRUE,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,17.700546,minimum_accept_diet,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,20.954681,minimum_accept_diet,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,13.538939,minimum_accept_diet,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,8.1878614,minimum_accept_diet,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,9.8428583,minimum_accept_diet,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,5.9805169,minimum_accept_diet,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,6.3555608,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,8.1525173,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,2.4643807,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,6.5136747,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,8.9983368,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,5.4992676,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,11.229265,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,10.68652,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,8.1806374,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,14.161615,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,13.107032,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,10.241434,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,19.117317,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,26.132149,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,18.506544,minimum_accept_diet,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2005,38.725189,minimum_diet_diversity,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,28.448591,minimum_diet_diversity,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,33.219078,minimum_diet_diversity,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,37.373138,minimum_diet_diversity,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2005,13.174573,minimum_diet_diversity,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,13.719858,minimum_diet_diversity,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,14.982954,minimum_diet_diversity,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,17.04104,minimum_diet_diversity,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2005,9.5654373,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,10.105916,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,11.358686,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,13.072247,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2005,11.963076,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,12.235603,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,13.525592,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,17.759089,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2005,15.858137,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,18.316553,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,17.066603,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,18.193163,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2005,28.810978,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,20.901602,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,22.038069,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,28.510778,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2005,44.726742,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,33.181408,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,39.938404,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,43.742645,minimum_diet_diversity,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,52.501881,minimum_meal,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,71.129578,minimum_meal,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,41.230591,minimum_meal,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,42.224918,minimum_meal,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,55.017246,minimum_meal,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,33.737106,minimum_meal,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,42.322903,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,49.544666,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,28.132988,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,40.366257,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,53.315163,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,33.094044,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,44.221588,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,57.587528,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,37.046494,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,44.678616,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,61.958843,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,38.108521,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,58.035404,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,78.795006,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,48.638237,minimum_meal,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,1999,,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2005,79.508919,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2009,71.787682,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,81.377319,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,78.74865,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,86.428032,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,1999,,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2005,94.274529,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2009,87.611412,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,89.465729,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,86.533089,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,92.822601,continued_breastfeeding_1yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,1999,,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2005,90.414063,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2009,88.045044,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,91.458168,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,84.409081,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,90.582085,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,1999,,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2005,95.633606,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2009,90.074898,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,87.829155,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,89.379242,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,94.085518,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,1999,,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2005,100,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2009,85.29068,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,90.501526,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,85.794197,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,94.929901,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,1999,,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2005,88.796219,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2009,80.339432,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,85.478874,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,83.180733,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,92.805916,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,1999,,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2005,68.665901,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2009,64.476349,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,77.727829,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,77.703438,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,79.662689,continued_breastfeeding_1yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,1999,,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2005,18.493862,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2009,11.894448,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,8.0472641,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,9.3379326,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,7.3427229,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,1999,,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2005,32.470718,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2009,23.671133,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,23.228889,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,20.016142,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,16.868858,continued_breastfeeding_2yr,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,1999,,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2005,36.43412,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2009,33.974464,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,41.254025,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,26.92346,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,20.983032,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,1999,,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2005,31.86335,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2009,20.272478,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,16.813057,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,25.9098,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,8.6360512,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,1999,,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2005,32.866211,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2009,20.202242,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,12.440819,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,11.288225,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,15.748279,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,1999,,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2005,23.040743,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2009,10.184264,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,9.8554773,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,7.1620679,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,9.7321272,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,1999,,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2005,15.857633,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2009,14.210031,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,7.2431245,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,10.452803,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,14.283859,continued_breastfeeding_2yr,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,1999,,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2009,51.307529,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,58.248264,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,54.142277,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2006,71.447983,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2011,64.49984,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,1999,,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2009,51.128525,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,59.103127,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,58.986099,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2006,66.909355,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2011,65.503731,early_initiation,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,1999,,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2009,51.570206,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,59.66246,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,60.146069,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2006,63.393677,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2011,66.165207,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,1999,,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2009,48.982754,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,58.417217,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,57.505806,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2006,67.951111,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2011,65.319138,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,1999,,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2009,50.970322,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,57.692127,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,58.859451,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2006,66.346283,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2011,64.214882,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,1999,,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2009,52.952988,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,59.588711,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,56.924492,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2006,71.305046,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2011,67.305939,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,1999,,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2009,51.234722,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,58.485603,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,52.945606,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2006,74.454926,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2011,62.181843,early_initiation,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,1999,,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2006,23.531237,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2009,29.331583,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2011,38.405136,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,44.873726,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,41.002689,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,1999,,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2006,21.07391,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2009,24.664011,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2011,28.456587,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,38.471851,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,49.651993,exclusive_breastfeeding,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,1999,,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2006,19.023165,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2009,22.725708,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2011,25.40073,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,41.136463,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,49.151333,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,1999,,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2006,20.517206,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2009,19.591484,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2011,29.922672,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,39.365547,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,54.746597,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,1999,,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2006,21.157173,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2009,25.20079,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2011,24.49629,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,35.617481,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,44.775066,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,1999,,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2006,29.572323,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2009,32.582191,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2011,31.6194,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,40.508419,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,44.357292,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,1999,,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2006,19.108713,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2009,32.697205,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2011,49.242516,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,44.5308,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,40.520046,exclusive_breastfeeding,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,1999,,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2009,90.204048,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2014,89.067162,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2015,96.24662,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2005,85.566711,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Urban,2010,89.054993,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,1999,,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2009,90.837654,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2014,86.517128,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2015,89.6241,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2005,70.223457,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Rural,2010,84.068436,solid_foods,location,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,1999,,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2009,93.203171,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2014,79.544411,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2015,89.253822,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2005,71.545395,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Lowest,2010,90.560303,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,1999,,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2009,91.323204,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2014,91.931915,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2015,83.934479,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2005,55.887062,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second lowest,2010,77.514885,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,1999,,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2009,86.654816,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2014,87.548409,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2015,95.130478,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2005,80.889938,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Middle,2010,85.077927,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,1999,,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2009,93.200737,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2014,84.531296,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2015,91.226303,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2005,73.242615,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Second highest,2010,87.627678,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,1999,,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2009,86.630791,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2014,93.034225,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2015,100,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2005,91.458801,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,Highest,2010,88.91851,solid_foods,income,K,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,"overweight, anaemia and stunting",burden_text,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,experiencing three forms of malnutrition,country_class,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,multi_sec,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,stunting_plan,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,anaemia_plan,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,LBW_plan,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,child_overweight_plan,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,EBF_plan,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,wasting_plan,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,sodium_plan,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Yes,overweight_adults_adoles_plan,all,Q,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,,salt_leg,all,O,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,No,sugar_tax,all,O,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,No progress or worsening,adult_fem_diabetes_track,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,No progress or worsening,adult_mal_diabetes_track,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,No progress or worsening,adult_fem_obesity_track,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,No progress or worsening,adult_mal_obesity_track,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,Some progress,under_5_stunting_track,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2014,22.4,early_childbearing_prev,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,70.385381333539,basic_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,66.5631013091956,basic_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,10.157483431254,limited_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,9.56830485571635,limited_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,13.8960224000876,unimproved_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,16.5368340917505,unimproved_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,5.56111283511939,surface_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,7.33175974333755,surface_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,,safely_managed_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,,safely_managed_water,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,41.7321546047847,basic_sanitation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,38.5886188198639,basic_sanitation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,25.4322809925544,limited_sanitation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,23.7241145152685,limited_sanitation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,3.49444151324889,unimproved_sanitation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,11.1978609793899,unimproved_sanitation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,29.341122889412,open_defecation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,26.4894056854777,open_defecation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,,safely_managed_sanitation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2015,,safely_managed_sanitation,all,V,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,42,total_calories_non_staple,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2003,43,total_calories_non_staple,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2006,41,total_calories_non_staple,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2009,41,total_calories_non_staple,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,42,total_calories_non_staple,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2014,1.167,nurses_and_midwives,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2014,7.6999999999999999E-2,physicians,all,U,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2000,40.2,undernourishment_prev,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2004,41.9,undernourishment_prev,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2008,43,undernourishment_prev,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2012,41.9,undernourishment_prev,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,2016,46.6,undernourishment_prev,all,S,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,No progress or worsening,under_5_overweight_track,all,A,,,,Africa,Eastern Africa
+ZWE,Zimbabwe,,,On course,under_5_wasting_track,all,A,,,,Africa,Eastern Africa
