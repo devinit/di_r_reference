@@ -74,11 +74,28 @@ for(trans_elem in trans_elems){
 all_transactions = rbindlist(trans_list,fill=T)
 View(all_transactions)
 
-# In this case, all transaction types are "2" meaning "commitment"
-# according to the codelist here http://reference.iatistandard.org/201/codelists/TransactionType/
-# But if you wanted to just see commitments, you could at this point subset the dataframe
-# like so:
-all_transactions = subset(all_transactions,trans_type=="2")
+# See all unique transaction types
+unique(all_transactions$type)
+
+# Set up a small key to decode via http://reference.iatistandard.org/201/codelists/TransactionType/
+type_key = c(
+  "Incoming Funds",
+  "Commitments",
+  "Disbursements",
+  "Expenditure",
+  "Interest Repayment",
+  "Loan Repayment",
+  "Reimbursement",
+  "Purchase of Equity",
+  "Sale of Equity",
+  "Credit Guarantee"
+  )
+
+# Notice how the code level matches the key index, so we can translate a code via indexing
+type_key[1]
+
+all_transactions$type = as.numeric(all_transactions$type)
+all_transactions$type_name = type_key[all_transactions$type]
 
 # Turn the value into a numeric column
 all_transactions$value = as.numeric(all_transactions$value)
@@ -86,9 +103,10 @@ all_transactions$value = as.numeric(all_transactions$value)
 all_transactions$year = as.numeric(substr(all_transactions$date,1,4))
 
 # Calculate the sum by year
-all_trans_tab = data.table(all_transactions)[,.(value=sum(value,na.rm=T)),by=.(year)]
-ggplot(all_trans_tab,aes(x=year,y=value)) +
-  geom_line(color="blue") +
+all_trans_tab = data.table(all_transactions)[,.(value=sum(value,na.rm=T)),by=.(year,type_name)]
+ggplot(all_trans_tab,aes(x=year,y=value,color=type_name,group=type_name)) +
+  geom_line() +
   scale_y_continuous(labels=dollar_format(prefix="£")) +
   theme_classic() +
-  labs(x="Transaction year",y="Total transaction value",title="DFID transactions to Uganda, 2000-2018")
+  labs(x="Transaction year",y="Total transaction value",title="DFID transactions to Uganda, 2000-2018") +
+  guides(color=guide_legend(title="Transaction type"))
