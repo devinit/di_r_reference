@@ -3,7 +3,7 @@ new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
 
-# Check you WD before trying to load files
+# Check your WD before trying to load files
 setwd("~/git/di_r_reference")
 
 # Load a reference to the file
