@@ -8,5 +8,5 @@
 3. Merging together different datasets
 4. Charting
 5. Geospatial data
-6. Advanced topics (XML, DTA, SAV, APIs)
-7. Gathering data from PDFs and other unusual sources
+6. Gathering data from PDFs and other unusual sources
+7. Advanced topics (XML, DTA, SAV, APIs)
