@@ -68,7 +68,10 @@ for(trans_elem in trans_elems){
   trans_list_index = trans_list_index + 1
 }
 
-all_transactions = rbindlist(trans_list)
+# Added fill=T here just in case an element is missing from a data.frame
+# Fill will create a new column and fill it with NA where it didn't exist before
+# So in case one transaction is missing a type, we can still rbind
+all_transactions = rbindlist(trans_list,fill=T)
 View(all_transactions)
 
 # In this case, all transaction types are "2" meaning "commitment"
