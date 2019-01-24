@@ -1,4 +1,4 @@
-list.of.packages <- c("data.table","XML","ggplot2","scales")
+list.of.packages <- c("data.table","XML","ggplot2","scales","varhandle")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
@@ -94,7 +94,8 @@ type_key = c(
 # Notice how the code level matches the key index, so we can translate a code via indexing
 type_key[1]
 
-all_transactions$type = as.numeric(all_transactions$type)
+# We need to unfactor type. `as.numeric` just captures the underlying integer instead of the intended value
+all_transactions$type = unfactor(all_transactions$type)
 all_transactions$type_name = type_key[all_transactions$type]
 
 # Turn the value into a numeric column
