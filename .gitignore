@@ -1,5 +1,6 @@
 output/*.csv
 output/*.png
+output/*.svg
 output/*.RData
 output/*.zip
 output/*/
