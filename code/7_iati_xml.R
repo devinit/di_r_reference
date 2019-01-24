@@ -63,7 +63,7 @@ for(trans_elem in trans_elems){
   values = sapply(value_elems,xmlValue)
   currencies = sapply(value_elems,xmlGetAttrDefault,"currency",default_currency)
   dates = sapply(value_elems,xmlGetAttrDefault,"value-date","")
-  trans.df = data.frame(value=values,currency=currencies,date=dates,trans_type=type)
+  trans.df = data.frame(value=values,currency=currencies,date=dates,type=trans_type)
   trans_list[[trans_list_index]] = trans.df
   trans_list_index = trans_list_index + 1
 }
