@@ -47,4 +47,11 @@ View(ug_ke_pop)
 # `/multi_table` also behaves exactly like `/single_table` but will return you two or more indicators in long form
 # For e.g.
 
-pop_gov_rev = fread("http://212.111.41.68:8000/multi_table?indicators=population_total,govt_revenue_pc_gdp&format=csv")
+pop_gov_rev = fread("http://212.111.41.68:8000/multi_table?indicators=govt_revenue_pc_gdp,population_total&format=csv")
+
+# Which we can reshape if you so desire
+pop_gov_rev = subset(pop_gov_rev,budget_type=="actual" | indicator=="population_total")
+pop_gov_rev$budget_type = NULL
+pop_gov_rev.m = melt(pop_gov_rev,id.vars=c("di_id","name","year","indicator"))
+pop_gov_rev.w = dcast(pop_gov_rev.m, di_id+name~indicator+year+variable)
+View(pop_gov_rev.w)
