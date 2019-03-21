@@ -1,5 +1,5 @@
 # Welcome to R! This line is a comment. Comments can begin with any number of hashes.
-#### If a comment ends with four or more hashes, hyphens or equal signs, it can be collapsed in RStudio ####
+#### If a comment ends with four or more hashes, it can be collapsed in RStudio ####
 # Collapsing a section hides code inbetween sections
 #### End section ####
 
@@ -10,9 +10,6 @@
 
 # R comes with a sample dataset called mtcars. To view it, run the function `View` with the argument `mtcars`
 View(mtcars)
-
-# This is one of many pre-loaded datasets in R. To see a comprehensive list, we can use the function data()
-data()
 
 # You can print data in the console
 print(mtcars)
@@ -25,7 +22,7 @@ dim(mtcars)
 nrow(mtcars)
 ncol(mtcars)
 
-# Column names and row names; these functions can be used to access names or, together with <-, to set names
+# Column names and row names
 colnames(mtcars)
 names(mtcars)
 rownames(mtcars)
@@ -40,9 +37,8 @@ names(mtcars2)
 # You can make arbitrarily named variables with the equal sign `=` or assignment arrow `<-`
 variable.one = 1
 variable.two = 2
-# It seems to be good practice to use <- for assignment of objects and = for specifying named parameters (e.g. in functions). Full explanation: https://renkun.me/2014/01/28/difference-between-assignment-operators-in-r/ 
 
-# Check equality/inequality/smaller than/smaller than or equal to
+# Check equality
 variable.one == variable.two
 variable.one != variable.two
 variable.one < variable.two
@@ -56,7 +52,7 @@ test.factor = factor(test.factor)
 is.factor(test.factor)
 typeof(test.factor)
 
-# These variables are all stored as single-length vectors in R. A vector is just a single-dimension list of data of the same type.
+# These variables are all stored as single-length vectors in R. A vector is just a single-dimension list of data.
 # You can use the `c` function, short for concatenate, to combine single vectors into longer vectors
 commands = c("stop","drop","roll")
 steps = c(1, 2, 3)
@@ -66,7 +62,7 @@ on.fire = data.frame(steps,commands)
 View(on.fire)
 
 # on.fire is a dataframe with 3 observations and 2 variables
-# Variables can be accessed/indexed with an $ sign
+# Variables can be accessed with an $ sign
 on.fire$steps
 
 # Row and columns can be accessed using square brackets `[]`
