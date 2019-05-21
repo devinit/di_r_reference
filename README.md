@@ -18,3 +18,7 @@
 3. (Optional for windows) Download and install the correct Rtools version: https://cran.r-project.org/bin/windows/Rtools/
 4. Download and install either git-scm https://git-scm.com/downloads, or Github Desktop https://desktop.github.com/
 5. Clone this repository to your hard-drive.
+
+## Further reading
+
+1. RStudio Git Version Control: https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.html#1
