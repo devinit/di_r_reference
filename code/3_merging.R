@@ -23,7 +23,7 @@ View(pop)
 # And now GDP in constant USD
 gdp_results = WDIsearch("gdp")
 # This one is a bit further down
-gdp_results[114,]
+gdp_results[52,]
 gdp = WDI("NY.GDP.MKTP.KD",country="all",start=1960,end=2018)
 
 # Critically important in merging datasets is understanding that the text must match verbatim
