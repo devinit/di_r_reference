@@ -1,7 +1,8 @@
-list.of.packages <- c("sp","rgdal","leaflet","data.table","ggplot2","scales")
+list.of.packages <- c("sp","rgdal","leaflet","data.table","ggplot2","scales","maptools","gpclib")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
+gpclibPermit() # Only for non-commercial uses, hence the permit. In future could use `rgeos` instead
 
 # There are two important ways of importing geospatial data into R, and two useful ways of visualizing it
 
