@@ -1,4 +1,4 @@
-list.of.packages <- c("data.table","rJava","scrapeR","tabulizer","miniUI","jsonlite")
+list.of.packages <- c("data.table","rJava","tabulizer","miniUI","jsonlite","XML","httr")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
@@ -91,7 +91,8 @@ url = "https://tian-y.github.io/PRESS2017Maps/PRESS_2017_ZWE.htm"
 iso3 = substr(url,51,53)
 
 # Here's the magic bit. This navigates to the URL and returns to you the elements of the page
-source = scrape(url, headers=T,follow=T,parse=T)[[1]]
+# source = scrape(url, headers=T,follow=T,parse=T)[[1]]
+source = htmlParse(content(GET(url)))
 
 # Using a syntax called "xPath" we extract all the script elements
 # These are where the data is encoded
