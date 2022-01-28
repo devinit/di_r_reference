@@ -5,3 +5,4 @@ output/*.RData
 output/*.zip
 output/*/
 .Rhistory
+code/.env
