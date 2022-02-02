@@ -6,6 +6,9 @@ rm(list.of.packages,new.packages)
 
 # Disclaimer: Whenever I write a guide for an API, URLs are liable to change
 
+# Change this WD to wherever your repository is
+setwd("~/git/di_r_reference/code")
+
 # Setup:
 # 1. Prior to running this script, sign up for an account here https://developer.iatistandard.org/
 # 2. Once you have an account, sign up for an API key
@@ -72,7 +75,7 @@ docs = rep(0, 1000)
 start_num = 0
 api_url_base = paste0(
   "https://api.iatistandard.org/datastore/activity/select?",
-  "q=reporting_org_ref:(GB-GOV-)",
+  "q=reporting_org_ref:(\"GB-GOV-\")",
   " AND (transaction_value:[* TO *]) AND (transaction_transaction_type_code:(3 OR 4))&",
   "fl=iati_identifier default_currency reporting_org_ref ",
   "transaction_transaction_type_code transaction_transaction_date_iso_date ",
